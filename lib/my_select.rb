@@ -1,3 +1,3 @@
 def my_select(collection)
- collection each do |num|
+ collection.each do |num|
 end
